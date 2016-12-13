@@ -1,4 +1,4 @@
-"""setup http-server."""
+"""setup http-server.py"""
 
 from setuptools import setup
 
