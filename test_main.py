@@ -1,6 +1,7 @@
 """Test for Http fucntion"""
 
 import socket
+import sys
 
 def __init__(self, host, port):
     clientsocket = socket.socket()

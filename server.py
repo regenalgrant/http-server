@@ -1,7 +1,7 @@
 # server.py 
 
 import socket
-import time
+import sys
 
 
 serversocket = socket.socket(socket.AF_INET, socket.SOCK_STREAM)
